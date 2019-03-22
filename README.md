@@ -1,5 +1,2 @@
-yarn install
-
-yarn start
-
-http://localhost:8088/# spider-man
+docker-compose up --build
+http://localhost:8088/
